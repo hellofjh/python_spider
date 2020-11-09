@@ -16,7 +16,7 @@ class spiderDemo:
             'accept': '*/*',
             # 'accept-encoding': 'gzip, deflate, br',
             # 'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
-            'cookie': '_zap=9f548b6e-f8ae-4723-aaab-a55d05393b2e; d_c0="ANDbUmvrExKPTu26a0engT6KCqPlVRqrFV4=|1603354427"; _xsrf=sUihqqFafOO3fmf2VnOI05ZhbQI2LVYl; _ga=GA1.2.923537120.1603416896; capsion_ticket="2|1:0|10:1603676555|14:capsion_ticket|44:ZTY5MDVmZjhkZTEwNGQxZjk5YjVmM2Q3ZDczYzIzYWM=|3621f5d86da6e5ed0a414b788c29c6947e669fff697eecb35fa1112024db3ecf"; z_c0="2|1:0|10:1603676579|4:z_c0|92:Mi4xcVRwMEVRQUFBQUFBME50U2Etc1RFaVlBQUFCZ0FsVk5vM2VEWUFBNXBYTGUxVE9HUGlOZmxTc3pvbDlmR3h1VGRB|136f00adea289697241cc6915d031e1e9fd6fabff7e2fc9d1634c53846b7264d"; Hm_lvt_98beee57fd2ef70ccdd5ca52b9740c49=1603362533,1603416203,1603416218,1603681131; _gid=GA1.2.1060176182.1603682643; q_c1=8a9b680812ca4c94ac96c471be77322d|1603682852000|1603682852000; SESSIONID=ygJL5NVAHy7DqwvkIEos1OUqXawomcctHKoX5kENu1s; JOID=VF0XAE1QpzXIAL5UK1XULF5oUEQ9Ksd-gTXzBWsY3QWNdMkhRwzXp5IDulIvrWrw3TwBV51FYjS5Vb87tHt6UNM=; osd=VlsSAUNSoTDJDrxSLlTaLlhtUUo_LMJ_jzf1AGoW3wOIdccjQQnWqZAFv1Mhr2z13DIDUZhEbDa_UL41tn1_Ud0=; KLBRSID=3d7feb8a094c905a519e532f6843365f|1603697012|1603696214; Hm_lpvt_98beee57fd2ef70ccdd5ca52b9740c49=1603697015',
+            'cookie': '',
             'referer': 'https://www.zhihu.com/search?type=content&q=%E6%89%93%E5%B7%A5%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85',
             # 'sec-fetch-dest': 'empty',
             # 'sec-fetch-mode': 'cors',
